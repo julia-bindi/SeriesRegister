@@ -1,0 +1,16 @@
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\bin\Debug\net5.0\seriesRegister.exe
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\bin\Debug\net5.0\seriesRegister.deps.json
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\bin\Debug\net5.0\seriesRegister.runtimeconfig.json
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\bin\Debug\net5.0\seriesRegister.runtimeconfig.dev.json
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\bin\Debug\net5.0\seriesRegister.dll
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\bin\Debug\net5.0\ref\seriesRegister.dll
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\bin\Debug\net5.0\seriesRegister.pdb
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\seriesRegister.csproj.AssemblyReference.cache
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\seriesRegister.GeneratedMSBuildEditorConfig.editorconfig
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\seriesRegister.AssemblyInfoInputs.cache
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\seriesRegister.AssemblyInfo.cs
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\seriesRegister.csproj.CoreCompileInputs.cache
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\seriesRegister.dll
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\ref\seriesRegister.dll
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\seriesRegister.pdb
+D:\julia\Programs\BOOTCAMPtakeblip\SeriesRegister\obj\Debug\net5.0\seriesRegister.genruntimeconfig.cache
